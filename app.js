@@ -39,13 +39,13 @@ window.addEventListener("DOMContentLoaded", () => {
 function render(name, event, other) {
   if (name && event && other) {
     $('#result').innerHTML = `<p>
-            ${name}${event}是怎么回事呢？${name}相信大家都很熟悉，但是${name}${event}是怎么回事呢，下面就让小编带大家一起了解吧。
+            我是${name}马上疯狂星期四要来了，需要你V我50助我一臂之力。${name}是羊了个羊的游戏设计师，${name}今天我被公司开除了
         </p>
         <p>
-            ${name}${event}，其实就是${other}，大家可能会很惊讶${name}怎么会${event}呢？但事实就是这样，小编也感到非常惊讶。
+            ${name}原因其实就是因为我掌握着第二关的通关密码，所有人都追着我，我现在无处可藏，只能向你求助。只要你现在V${name}50等到了疯狂星期四，你V我50，我就把羊了个羊第二关的通关秘籍传给你。
         </p>
         <p>
-            这就是关于${name}${event}的事情了，大家有什么想法呢，欢迎在评论区告诉小编一起讨论哦！
+            前100名V50的。送您通关大礼包。让您不会像其他人过900+次还卡第二关。
         </p>`
   }
 }
